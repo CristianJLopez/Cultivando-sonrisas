@@ -11,7 +11,7 @@
 	</head>
 	<body>
 		<div class="logo">
-			 <img src="imagenes/logo.png">
+			 <img src="imagenes/logo.PNG">
 		</div>
 		<div class="titulo">
 			<h1></h1>
