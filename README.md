@@ -1,2 +1,2 @@
 # Cultivando-sonrisas
-Pagina web para promocionar una huerta urbana para una fundacion (proyecto de grado)
+Página web para promocionar una huerta urbana implementada en la fundación buena semilla ubicada en el barrio Egipto en Bogotá
