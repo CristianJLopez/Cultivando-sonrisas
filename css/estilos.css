@@ -9,19 +9,19 @@ body{
 #banner{
 	margin-top: 230px;
 	position: relative;
-    background-color: #3D0D03;
-    font-family: 'Aclonica', sans-serif;
-    font-size: 2.9rem;
+  background-color: #bbaeabf8;
+  font-family: 'Aclonica', sans-serif;
+  font-size: 2.9rem;
 }
 #banner p{
     font-size: 1.9rem;
 }
 #banner img{
-	width: 80%;
-	height: 900px;
+    width: 80%;
+    height: 400px;
     display: block;
-     margin-left: auto;
-     margin-right: auto;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 #banner .contenedor{
@@ -195,7 +195,7 @@ h1{
     border-width: 10px;
     border-color: #088A08;
     background-image: url(../imagenes/fyv.jpg);
-    height: 240px;
+    height: 100px;
     position: relative;
     top: 200px;
 }

@@ -1,17 +1,17 @@
 h1{
     text-align: center;
-    font-size: 60px;
+    font-size: 30px;
 }
 .titulo{
-    font-family: 'Wendy One', sans-serif;
-    color: #3D0D03;
+    font-family: 'zaph-chancery';
+    color: #050101;
     border-style: double;
-    border-width: 10px;
-    border-color: #088A08;
+    border-width: 5px;
+    border-color: black;
     background-image: url(../imagenes/fyv.jpg);
-   position: relative;
-   top: 200px;
-   height: 240px;
+    position: relative;
+    top: 200px;
+    height: 100px;
 } 
 h3{
 	color: #3D0D03;
